@@ -1,0 +1,9 @@
+{
+    "require": {
+        "fzaninotto/faker": "^1.6",
+        "nesbot/carbon": "^1.22"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    }
+}
